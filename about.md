@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Welcome to **Wooseok Sung's Tech Blog**! If you're passionate about harnessing the power of data to drive insights and make informed decisions, you're in the right place.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+At **Wooseok Sung's Tech Blog**, we're dedicated to exploring the dynamic intersection of data science and optimization, delving into cutting-edge techniques and real-world applications.

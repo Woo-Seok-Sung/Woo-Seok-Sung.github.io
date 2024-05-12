@@ -2,10 +2,13 @@
 title: 
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://woo-seok-sung.github.io
-avatar: /_image/profile.png
+avatar: ./_image/profile.png
 paginate: 5
 permalink: pretty
-cover_image: /_image/background.jpg
+cover_image: ./_image/background.jpg
+
+include:
+  - _image
 
 # Gems
 plugins:
